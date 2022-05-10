@@ -1,3 +1,4 @@
-* linguist-vendored
-*.Java linguist-vendored=false
+# * linguist-vendored
+# *.Java linguist-vendored=false
 # *.Java linguist-detectable=false
+*.rb linguist-language=JavaScript
